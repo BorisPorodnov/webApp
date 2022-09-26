@@ -1,6 +1,6 @@
 .header {
     padding: 2%;
-    background-color: rgb(128, 0, 107);
+    background-color: rgb(6, 153, 253);
     font-size: 50px;
     text-align: center;
     width: 100%;
@@ -25,12 +25,12 @@ h1 {
 
 .display-board {
   width: 100%;
-  background-color: rgba(0, 119, 128, 0.719);
+  background-color: rgba(1, 211, 246, 0.72);
   padding: 5%;
 }
 
 .number {
-  color: red;
+  color: white;
   font-size: 75px;
   text-align: center;
 }

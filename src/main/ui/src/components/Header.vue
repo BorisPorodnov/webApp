@@ -1,6 +1,6 @@
 <template>
     <div class="header">
-        Vue.js With Java
+      Web Application
     </div>
 </template>
 
